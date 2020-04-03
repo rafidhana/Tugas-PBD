@@ -1,0 +1,35 @@
+.container{
+	width :100%;
+	position: absolute;
+
+}
+.header{
+	height:50px; 
+	margin: auto;
+	background:purple;
+	font-color:white;
+}
+
+.middle{
+	width :68%;
+	float : center;
+	margin :auto;
+	height: 80px;
+}
+
+
+.footer{
+display: block;
+height:50px; 
+margin:0px bottom;
+background:purple;
+}
+
+
+.footer p{
+	text-align:center;
+}
+
+.bg{
+	background-color: #87CEFA;
+}
